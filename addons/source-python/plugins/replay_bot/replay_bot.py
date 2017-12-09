@@ -16,7 +16,6 @@ from entities.helpers import index_from_edict
 
 from players.bots import bot_manager
 from players.bots import BotCmd
-from players.dictionary import PlayerDictionary
 from players.entity import Player as SPPlayer
 
 from engines.server import server
